@@ -1,4 +1,6 @@
-/* This program reads two integers from the user and prints their sum */
+/*From the "Introduction to Programming in C++" course material, at NYU
+* This program reads two integers from the user and prints their sum
+*/
 
 #include <iostream>
 using namespace std;
