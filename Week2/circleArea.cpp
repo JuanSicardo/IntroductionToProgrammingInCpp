@@ -1,4 +1,5 @@
 /*From the "Introduction to Programming in C++" course at NYUx
+* Date: February the 3rd of 2021
 * This program reads the radius of a circle and then calculates the area of that circle
 */
 

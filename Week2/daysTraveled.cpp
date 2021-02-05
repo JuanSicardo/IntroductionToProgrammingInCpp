@@ -1,4 +1,5 @@
 /*From the "Introduction to Programming in C++" course material at NYUx
+* Date: February the 3rd of 2021
 * This program asks for a number of days and then it calculates the number of weeks
 * and the reminder of days.
 */
