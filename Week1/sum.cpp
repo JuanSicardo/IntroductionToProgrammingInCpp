@@ -1,11 +1,12 @@
-/*From the "Introduction to Programming in C++" course material, at NYU
+/*From the "Introduction to Programming in C++" course material, at NYUx
 * This program reads two integers from the user and prints their sum
 */
 
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
 	int num1;	//will hold the first input
 	int num2;	//will hold the second input
 	int sum;	//will hold the sum
